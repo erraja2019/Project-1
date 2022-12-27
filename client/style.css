@@ -1,0 +1,21 @@
+body{
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+     
+}
+.wrapper{
+    background-color: #ff914d;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 15px;
+}
+h3{
+    font-weight: bold;
+}
+.form-control{
+    border-radius: 15rem; 
+    line-height: 2rem;
+    letter-spacing: 1px;
+    width: 200px;
+    font-weight: 500;
+    padding-left: 20px;
+}
